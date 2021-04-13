@@ -1,1 +1,1 @@
-# ReliableTXT-JS
+# ReliableTXT with JavaScript
